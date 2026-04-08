@@ -80,10 +80,10 @@ export default function Hero() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 pb-10">
           <div className="bg-white rounded-2xl shadow-2xl shadow-black/10 px-8 py-6 inline-flex flex-wrap gap-x-10 gap-y-4">
             {[
-              { label: 'CHECK-IN', value: '12:00 PM' },
+              { label: 'CHECK-IN', value: '2:00 PM' },
               { label: 'CHECK-OUT', value: '11:00 AM' },
-              { label: 'STARTING AT', value: '₹1,189/night' },
-              { label: 'RATING', value: '4 / 5' },
+              { label: 'STARTING AT', value: '₹5,00/night' },
+              { label: 'RATING', value: '4 / 8' },
             ].map((item, i) => (
               <div key={item.label} className="flex items-center gap-6">
                 {i > 0 && <div className="w-px h-10 bg-gray-200 hidden sm:block -ml-5" />}
