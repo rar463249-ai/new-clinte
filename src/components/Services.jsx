@@ -15,6 +15,30 @@ const rooms = [
     amenities: ['Air Conditioning', 'Flat-Screen TV', 'Private Bathroom', 'Free Wi-Fi', 'Free Parking', 'Toiletries', 'Bottled Water', 'Balcony'],
     tag: 'Most Popular',
   },
+{
+    name: 'Classic Double Room',
+    price: '1,189',
+    capacity: '2 Adults',
+    bed: '1 Double Bed',
+    size: '200 sq ft',
+    image: 'https://ik.imagekit.io/zhrq3zl7w/image-600x400.png',
+    description: 'Perfect for couples or solo travelers. Air-conditioned room with flat-screen TV, private bathroom, and a balcony view.',
+    amenities: ['Air Conditioning', 'Flat-Screen TV', 'Private Bathroom', 'Free Wi-Fi', 'Free Parking', 'Toiletries', 'Bottled Water', 'Balcony'],
+    tag: 'Most Popular',
+  },
+{
+    name: 'Classic Double Room',
+    price: '1,189',
+    capacity: '2 Adults',
+    bed: '1 Double Bed',
+    size: '200 sq ft',
+    image: 'https://ik.imagekit.io/zhrq3zl7w/image-600x400.png',
+    description: 'Perfect for couples or solo travelers. Air-conditioned room with flat-screen TV, private bathroom, and a balcony view.',
+    amenities: ['Air Conditioning', 'Flat-Screen TV', 'Private Bathroom', 'Free Wi-Fi', 'Free Parking', 'Toiletries', 'Bottled Water', 'Balcony'],
+    tag: 'Most Popular',
+  },
+
+  
   {
     name: 'Spacious Family Room',
     price: '1,789',
