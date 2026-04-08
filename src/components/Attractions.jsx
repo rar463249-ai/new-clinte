@@ -1,7 +1,7 @@
 import { useReveal } from '../hooks/useReveal';
 
 const attractions = [
-  { icon: '🚂', name: 'Banaras Railway Station', distance: '640m', time: '5 min walk', color: 'bg-blue-50 text-blue-600 border-blue-100' },
+
   { icon: '🚂', name: 'Manduadih Railway Station', distance: '770m', time: '8 min walk', color: 'bg-blue-50 text-blue-600 border-blue-100' },
   { icon: '🐒', name: 'Durga Temple (Monkey Temple)', distance: '2.7 km', time: '10 min', color: 'bg-orange-50 text-orange-600 border-orange-100' },
   { icon: '🙏', name: 'Sankat Mochan Temple', distance: '2.9 km', time: '12 min', color: 'bg-orange-50 text-orange-600 border-orange-100' },
