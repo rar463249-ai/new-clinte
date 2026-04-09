@@ -80,7 +80,7 @@ export default function Hero() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8 pb-10">
           <div className="bg-white rounded-2xl shadow-2xl shadow-black/10 px-8 py-6 inline-flex flex-wrap gap-x-10 gap-y-4">
             {[
-              { label: 'CHECK-IN', value: '2:00 PM' },
+              { label: 'CHECK-IN', value: '10:00 AM' },
               { label: 'CHECK-OUT', value: '11:00 AM' },
               { label: 'STARTING AT', value: '₹5,00/night' },
               { label: 'RATING', value: '4 / 8' },
