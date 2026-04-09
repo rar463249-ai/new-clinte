@@ -43,7 +43,7 @@ export default function Contact() {
                 { icon: '📞', label: 'Call Us', value: '+91 6386 683 077', sub: 'Available 8 AM – 10 PM', href: `tel:+91${PHONE}` },
                 { icon: '💬', label: 'WhatsApp', value: '+91 6386 683 077', sub: 'Quick reply, easy booking', href: WA_LINK, external: true },
                 { icon: '✉️', label: 'Email', value: 'krishneshwartiwari52699@gmail.com', sub: 'We reply within 24 hours', href: 'mailto:krishneshwartiwari52699@gmail.com' },
-                { icon: '📍', label: 'Address', value: 'Bajardiha Rd, Jjanki Nagar, Varanasi 221106', sub: 'Near Shri Ram Nagar Colony', href: 'https://maps.app.goo.gl/dSffEXDnw9h5bG347?g_st=aw', external: true },
+                { icon: '📍', label: 'Address', value: 'Bajardiha Rd, Varanasi 221106', sub: 'Near Shri Ram Nagar Colony', href: 'https://maps.app.goo.gl/dSffEXDnw9h5bG347?g_st=aw', external: true },
               ].map((item) => (
                 <a
                   key={item.label}
